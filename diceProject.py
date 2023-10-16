@@ -19,3 +19,6 @@ for rollz in range (rolls):
         elif randomDice==1:
             print("Critical Failure")
             #checks if the 20 sided dice roll was a 1
+
+#       I used the int functon from https://www.geeksforgeeks.org/python-int-function/
+#       https://github.com/adk7994/Dice-Roller
